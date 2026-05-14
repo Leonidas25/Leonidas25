@@ -6,10 +6,7 @@
 
 ## 📊 **GitHub Stats**  
 
-<div>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonidas25&theme=dark" alt="leonidas25" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonidas25&show_icons=true&theme=dark&locale=en&layout=compact" alt="leonidas25" /></p>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Leonidas25&theme=dark)](https://git.io/streak-stats)
 
 [![GitHub Followers](https://img.shields.io/github/followers/leonidas25?style=social)](https://github.com/leonidas25)  
 
