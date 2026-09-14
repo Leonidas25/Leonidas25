@@ -6,7 +6,7 @@
 
 ## 📊 **GitHub Stats**
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Leonidas25&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Leonidas25&theme=tokyonight)](https://git.io/streak-stats)
 
 [![GitHub Followers](https://img.shields.io/github/followers/leonidas25?style=social)](https://github.com/leonidas25)
 
