@@ -4,11 +4,11 @@
 
 ---
 
-## 📊 **GitHub Stats**  
+## 📊 **GitHub Stats**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Leonidas25&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Leonidas25&theme=dark)](https://git.io/streak-stats)
 
-[![GitHub Followers](https://img.shields.io/github/followers/leonidas25?style=social)](https://github.com/leonidas25)  
+[![GitHub Followers](https://img.shields.io/github/followers/leonidas25?style=social)](https://github.com/leonidas25)
 
 ---
 
