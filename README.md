@@ -18,6 +18,16 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="./profile/streak.svg" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
 ## 🏆 Achievements
 
 - 💪 **Battle-tested Engineer**
@@ -29,16 +39,6 @@
   - 🥇 Gold — Best City Awards 2022 — Intelliflow (workflow system)
   - 🥉 Bronze — Best City Awards 2022 — Intelliflow (workflow system)
 - 🗣️ Speaker at **InfoCom World Conference 2016** — [Session Schedule in Greek](./conference.jpeg)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="./profile/streak.svg" alt="GitHub Streak" />
-  </a>
-</p>
 
 ---
 
